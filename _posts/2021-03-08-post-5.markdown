@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ships & Ports"
-date:   2021-03-08 11:57:59 -0500
+title:  "wikidata"
+date:   2021-03-17 11:57:59 -0500
 categories: jekyll update
 ---
 
-Stowaways of Disease Vectors
+Exploration for Categorization assignment. Went through tours and tutorials. Practiced changing query limits to return various results. I can now make a list of the recorded names, death dates, and the killers of the largest cattle in known history. 
