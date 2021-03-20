@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Primary Source Material"
+date:   2021-03-19 11:57:59 -0500
+categories: jekyll update
+---
 ABINGDON.
 County seat of Washington county, Va., on the Virginia & TNssee railroad, 189 miles from Lynchburg. Population, 2100. First and only case was Judge L. V. Dixon, a refugee from Memphis, who died September 17th.
 
