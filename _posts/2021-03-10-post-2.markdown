@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Second Post"
-date:   2021-03-10 11:57:59 -0500
-categories: jekyll update
----
-
-Beginning to explore the spread and impact of Yellow Fever in 1878 to determine where local communities of faith might have had experienced the pandemic and the response they exhibited towards the crisis. 
