@@ -8,3 +8,5 @@ Cases and Death Reports
 
 What I find most interesting about the following depiction of my data set is its unexpected result with New Orleans showing up larger than Memphis, given that Memphis gets most of the attention for the event. The separate colors for states also make it very interesting to see how a visualization of how locales were impacted overall without the mental limits maps can impose. Results can be seen [here](https://public.tableau.com/profile/lisa2258#!/vizhome/CitiesStates_16171621616640/Sheet1?publish=yes). 
 
+In a more traditional map representation, one gets a better sense of the regional emphasis of the outbreak. A future project I would like to work on is to compare [this](https://public.tableau.com/profile/lisa2258#!/vizhome/GeographicSpread_16177113594320/Sheet2). with a map of the sources of financial contributions that are sent to help fund the relief efforts based on the appeals printed in the newspapers I am currently researching for a seminar paper. 
+
