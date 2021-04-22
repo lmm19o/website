@@ -1,31 +1,13 @@
 ---
 layout: post
-title:  "First Post"
-date:   2021-03-08 11:57:59 -0500
+title:  "Thoughts on Data"
+date:   2021-04-23 11:57:59 -0500
 categories: jekyll update
 ---
-This is it. 
+My first set of data was big and overwhelming. It might be a good candidate for computational methods in theory, but it greatly surpassed my own capabilities. Attempting to clean something both massive and dirty was a self-defeating enterprise. Switching to the second source which was much smaller allowed me the opportunity to both get some easy successes under my belt, as well as allow me to learn from mistakes made as they were easier to catch at the point of error. While “find all” and “replace all” are intended to save time, this only applies if a person has a basic understanding of regular expressions, which I did not. I was coming from a place of needing to “find” and “replace” one instance at a time to assure I was making the changes I intended to make. I learned so much more from this as my errors were immediately called to my attention. Ultimately, I was able to figure out how to fix similar problems which required different inputs by this slow but steady method. It was at this point that I began to see any potential in the topics of the course beyond the semester. 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The larger set of data is interesting, it gives the fuller picture of the experience of the entire geographic region afflicted by the scourge of 1878. One can see both the temporal and spatial spread of the contagion as well as the scale of the outbreak for each location stricken. What it does is help me to see the bigger picture and get a greater understanding of what was happening on a broad level. 
 
-Jekyll requires blog post files to be named according to the following format:
+The second source was compiled by one individual and as such is much more uniform in its language making it easier to clean and make comparisons between locations. It also gives information on the amount of donations and disbursements related to each city and this information has potential for what I am trying to establish now. The second portion of this source is limited to the experience in Memphis, where the worst of the outbreak occurred and where I am most interested in exploring long term. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Late breaking news: I found a new set of data in source explored for my seminar paper that I want to clean next. This is a list of contributions made through the appeals of Father William Walsh to the various Catholic benevolent societies in support of the Father Mathew Camp he established as a place of refuge for those citizens of Memphis who had no other means to evacuate the threat. The focus of my work at the moment is determining how/why temperance unions felt it was their obligation to establish and maintain a refugee camp in the midst of a yellow fever epidemic. Religious affiliation and identity surely played a part in a time period of American history known for its anti-Catholic atmosphere. 
