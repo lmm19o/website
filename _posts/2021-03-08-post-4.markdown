@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 Cases and Death Reports 
 
-What I find most interesting about the following depiction of my data set is its unexpected result with New Orleans showing up larger than Memphis, given that Memphis gets most of the attention for the event. The separate colors for states also make it very interesting to see how a visualization of how locales were impacted overall without the mental limits maps can impose. Results can be seen [here](https://public.tableau.com/profile/lisa2258#!/vizhome/CitiesStates_16171621616640/Sheet1?publish=yes)
+What I find most interesting about the following depiction of my data set is its unexpected result with New Orleans showing up larger than Memphis, given that Memphis gets most of the attention for the event. The separate colors for states also make it very interesting to see how a visualization of how locales were impacted overall without the mental limits maps can impose. Results can be seen [here](https://public.tableau.com/profile/lisa2258#!/vizhome/CitiesStates_16171621616640/Sheet1?publish=yes). 
 
